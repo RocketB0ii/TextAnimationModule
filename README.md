@@ -1,4 +1,2 @@
 # TextAnimationModule
-TextAnimationModule is a module that you can easily animates a text in your Roblox ga- experience.
-
-
+ A module that lets you animates your text easily and use it in your Roblox ga- experience.
